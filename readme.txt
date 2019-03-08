@@ -2,9 +2,14 @@ This is a new file
 
 some numbers 456
 
-Vim
+removing vim or am I moving?
 
-some more text
+This line has changed
 
 okay I'm done
 
+
+
+Add some texty here 
+
+do a little of this
