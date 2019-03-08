@@ -6,10 +6,13 @@ removing vim or am I moving?
 
 This line has changed
 
-okay I'm done
+Making edits
 
 
 
-Add some texty here 
+Change this
 
-do a little of this
+still doing a little of this
+
+
+more text
